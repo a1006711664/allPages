@@ -24,7 +24,7 @@
 # 工作经历
 
 ``` bash
-<span style="color:red;">这是比font标签更好的方式。可以试试。</span>
+<font color=#00ffff size=6>color=#00ffff</font> 
 江苏界享电子商务有限公司：<font color=red>2016</font> <font color=green>2016</font>年9月——2017年5月
 
 四川星途美来网络科技有限公司：2017年1月——2018年5月

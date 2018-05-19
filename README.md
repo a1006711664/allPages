@@ -16,7 +16,7 @@
 
 # 技能
 
-- 前端技术：html5,css3,javascript,AJAX,bootstrap,vue
+- 前端技术：html5,css3,javascript,jQuery,AJAX,bootstrap,vue
 - 常用工具：webstrom,sublime
 - 前端工具：webpack,less,lass
 

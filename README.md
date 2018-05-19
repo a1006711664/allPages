@@ -22,7 +22,7 @@
 
 
 # 工作经历
-<font color=#00ffff size=6>color=#00ffff</font> 
+    <font color=red size=6>color=#00ffff</font> 
 ``` bash
 <font color=#00ffff size=6>color=#00ffff</font> 
 江苏界享电子商务有限公司：<font color=red>2016</font> <font color=green>2016</font>年9月——2017年5月

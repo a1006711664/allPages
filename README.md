@@ -55,46 +55,79 @@
 
 ##我的职责
 第一阶段：
-
-1. 参与该项目整个开发周期
+1. 项目整体设计，前端所有功能
+2. 参与该项目整个开发周期，我负责项目前端所有模块，其中使用到
 
   (a). 商品图片上传七牛云
   
-  (b). 订单使用websoket+语音播报 及时提醒有新订单生成和更新订单列表
+  (b). 编写vue组件，如输入验证组件，按钮组件等
+  
+  (c). 订单使用websoket+语音播报 及时提醒有新订单生成和更新订单列表
 
-  (c). 员工权限使用vuerouter禁止访问不该有的模块
+  (d). 员工权限使用vuerouter禁止访问不该有的模块
   
 第二阶段：
-1. 项目在apicloud上打包编译成Android APP
+1. 项目在apicloud上打包编译成Android APP，开发APP工具使用APICloud Studio
 
-2. 
+2. 添加蓝牙打印模块，连接蓝牙打印小票
+
+3. 添加消息推送模块，向安装应用的商户推送消息
+
+第三阶段：
+
+1. 申请苹果开发者账户，打包IOS APP
+
+2. 更改不合iOS规定的组件，如ios不能默认打开按钮
 
 
-> A Vue.js project
+# 项目经历
+- 星途美来 2017年1月
 
-## Build Setup
+项目介绍： 星途美来官网简介
 
-``` bash
-# install dependencies
-npm install
+##我的职责
+1. 负责页面撰写
 
-# serve with hot reload at localhost:8080
-npm run dev
+# 项目经历
+- 莯莯易购 2017年1月-2017年5月
 
-# build for production with minification
-npm run build
+项目介绍：微信公众号莯莯易购，是电商性质微信商城。以红人促进消费，并有返佣机制和晋升机制。
 
-# build for production and view the bundle analyzer report
-npm run build --report
+##我的职责
+1. 前端性能优化
+2. 和设计师重构页面
+3. 负责各个时期的商城活动模块
+4. 项目向新框架Laravel+vue迁移
 
-# run unit tests
-npm run unit
 
-# run e2e tests
-npm run e2e
+# 项目经历
+- 供应商后台 2017年3月-2017年4月
 
-# run all tests
-npm test
-```
+项目介绍：莯莯易购更改为多商家后，提供的供应商后台，包含供应商绑定与解绑模块，供应商订单模块，商品筛选模块。使用vue-cli+
+element快速构建
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+##我的职责
+1. 整个后台前端的开发
+(a). 供应商绑定与解绑模块
+(b). 供应商订单模块
+(c). 商品筛选模块
+(d). 登录模块
+
+
+# 项目经历
+- 莯莯易购共享好店 2017年3月-2017年5月
+
+项目介绍：共享好店是莯莯易购多商家应用，包含商家注册模块和商家筛选与查看模块等。使用vue-cli+
+Mint快速构建
+
+##我的职责
+1. 商家注册模块
+2. 商家筛选模块
+3. 商家详情模块
+
+# 自我评价
+
+- 良好的学习能力，喜欢对自我不断完善，钻研问题，吸收各方面的知识。具备良 好的代码规范，注重代码整洁，可维护性。
+
+- 希望在充实前端技能的同时，学习后台语言，期望像全栈方向发展。
+
